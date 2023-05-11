@@ -24,3 +24,4 @@ video_metadata:
   youtube_description: ''
   youtube_id: ''
 ---
+{{% resource_link "eaf89c89-5a1f-4afd-82b5-f7c2b84b93ff" "Test Link" %}}
