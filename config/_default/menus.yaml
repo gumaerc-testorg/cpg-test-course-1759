@@ -1,0 +1,5 @@
+leftnav:
+- identifier: d8637c73-e620-4165-ac5d-eda0fe2be19e
+  name: Test Menu Item
+  url: /resources/navmenu_jpg
+  weight: 10
